@@ -1,0 +1,10 @@
+server:
+  port: 8080
+  host: localhost
+  api_version: v1
+database:
+  user: dbuser
+  password: dbpass
+  host: dbhost
+  port: 5432
+  name: dbname
