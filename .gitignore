@@ -1,0 +1,32 @@
+# ide
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.swp
+
+# log
+*.log
+logs/
+log/
+
+# tmp
+*.tmp
+*.exe
+*.out
+*.class
+*.o
+*.so
+
+# data
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# conf
+*_dev.yaml
+*_dev.env
+
+# this app
