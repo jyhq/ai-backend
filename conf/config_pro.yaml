@@ -8,3 +8,6 @@ database:
   host: dbhost
   port: 5432
   name: dbname
+gunicorn:
+  workers: -1
+  timeout: 30000
